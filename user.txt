@@ -19,3 +19,8 @@ user = Lonef4x
 Email = panelfor2@gmail.com
 password = emon////1624
 ________________________________
+-------------------------------
+user = tanvir
+Email = gamingsujon000@gmail.com
+password = 123456
+________________________________
