@@ -24,3 +24,8 @@ user = RT Santo
 Email = rtsantogaming@gmail.com
 password = 6849929299
 ________________________________
+-------------------------------
+user = Alvi
+Email = bhaialvi070@gmail.com
+password = tanvir123
+________________________________
