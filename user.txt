@@ -9,3 +9,8 @@ user = emon2123
 Email = diytouch606@gmail.com
 password = Emon////1624
 ________________________________
+-------------------------------
+user = adil
+Email = adilvai37@gmail.com
+password = sadiya09
+________________________________
