@@ -14,8 +14,3 @@ user = RAF
 Email = emon606@gmail.com
 password = BEST.OF.LUCK!
 ________________________________
--------------------------------
-user = tanvir
-Email = md0099254@gmaI.COM
-password = 111111
-________________________________
