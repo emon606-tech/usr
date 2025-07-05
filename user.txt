@@ -29,3 +29,8 @@ user = ridoy
 Email = ripaa9954@gmail.com
 password = 319112
 ________________________________
+-------------------------------
+user = tarakul
+Email = tarakulchowdhury@gmail.com
+password = @tarakul7
+________________________________
