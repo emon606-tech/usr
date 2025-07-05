@@ -34,3 +34,8 @@ user = tarakul
 Email = tarakulchowdhury@gmail.com
 password = @tarakul7
 ________________________________
+-------------------------------
+user = Alvi
+Email = bhaialvi070@gmail.com
+password = tanvir123
+________________________________
